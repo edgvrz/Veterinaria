@@ -21,7 +21,7 @@ D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\rjsmcsht
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\scopedcss\bundle\Veterinaria.styles.css
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\scopedcss\projectbundle\Veterinaria.bundle.scp.css
-D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\compressed\8gsitsq838-b9sayid5wm.gz
+D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\compressed\8gsitsq838-zgol0iv3mh.gz
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\compressed\t1bhr15vgk-61n19gt1b8.gz
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\compressed\o3qfwq6ie4-xtxxf3hu2r.gz
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\compressed\40370xk8da-bqjiyaj88i.gz
@@ -94,3 +94,4 @@ D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\refint\V
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.pdb
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.genruntimeconfig.cache
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\ref\Veterinaria.dll
+D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.sourcelink.json
