@@ -94,3 +94,4 @@ D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\refint\V
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.pdb
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.genruntimeconfig.cache
 D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\ref\Veterinaria.dll
+D:\Usmp6\Programacion\Trabajo2\Veterinaria\Veterinaria\obj\Debug\net9.0\Veterinaria.sourcelink.json
