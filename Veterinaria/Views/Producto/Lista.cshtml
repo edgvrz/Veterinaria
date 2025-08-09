@@ -1,0 +1,22 @@
+@model IEnumerable<Veterinaria.Models.Producto>
+@{
+    ViewData["Title"] = "Productos para Mascotas";
+}
+
+<h2 class="mb-4">Productos para Mascotas</h2>
+
+<div class="row">
+    @foreach (var p in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@p.ImagenUrl" class="card-img-top" alt="@p.Nombre" />
+                <div class="card-body">
+                    <h5 class="card-title">@p.Nombre</h5>
+                    <p class="card-text">@p.Descripcion</p>
+                    <p class="text-primary fw-bold">$@p.Precio</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
